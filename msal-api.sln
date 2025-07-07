@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msal-api", "msal-api\msal-api.csproj", "{7930A8BF-2434-4433-BFC8-AC7C575B5FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7930A8BF-2434-4433-BFC8-AC7C575B5FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7930A8BF-2434-4433-BFC8-AC7C575B5FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7930A8BF-2434-4433-BFC8-AC7C575B5FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7930A8BF-2434-4433-BFC8-AC7C575B5FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E48509-D7E9-4800-A84A-48FBFB02CA61}
+	EndGlobalSection
+EndGlobal
